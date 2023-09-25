@@ -5,7 +5,7 @@ Queria deixar claro que tem algumas coisas que eu poderia ter feito de uma manei
 foi mais para testar minhas habilidades. Ela deu certo, mas tem algumas partes que precisam melhorar, e espero que servi de "BASE" para algumas pessoas que estão iniciando agora.
 
 
-  Por favor, caso for usar este TEMPLATE de loja, coloque os créditos por favor, querendo ou não deu trabalho para fazer e muito mais usa a criatividade para bolar está loja foi gigante.
+  Por favor, caso for usar este TEMPLATE de loja, coloque os créditos por favor, querendo ou não deu trabalho para fazer, e muito mais. usa a criatividade para bolar está loja foi gigante.
   Pense um pouco no trabalho dos outros!!
 
    Foi utilizado neste template as seguintes linguagens:
